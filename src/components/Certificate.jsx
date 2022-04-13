@@ -14,7 +14,7 @@ const Certificate = () => {
             <span className='name'>{student.Name}</span>
             <span className='state'>{student.Club}</span>
             <span className='score'>{student.Pts}</span>
-            <span className='place'>{student.Rank}th</span>
+            <span className='place'>{student.Rank}</span>
         </div>
     </div>
   )
